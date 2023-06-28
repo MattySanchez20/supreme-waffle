@@ -1,1 +1,1 @@
-testing git
+testing git, new addition to the file to test the git commit section
