@@ -1,3 +1,5 @@
 testing git, new addition to the file to test the git commit section
 
 changing the contents then committing to a new branch called test_branch
+
+we are now going to test git for the second time
